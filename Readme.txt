@@ -1,0 +1,1 @@
+This is a program that uses Linux C development. The program calculate the Collatz conjecture using child process and also printing the pid of the parent and the child process.
